@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+Kányinsọ́lá Ọbáyàn has received a Mellon Postdoctoral Fellowship in Digital Humanities. She received her Ph.D. in Africana Studies at Cornell University. Her primary intellectual interests lie at the intersections of Africana Studies, digital humanities, and science and technology studies, where she investigates the sociocultural implications of technology entrepreneurship in contemporary Africa using Lagos, Nigeria as a point of departure. 
 
-You can use the [editor on GitHub](https://github.com/kanyinsolao/kanyinsolaobayan.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kanyinsolao/kanyinsolaobayan.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As a doctoral candidate, she was a recipient of several distinguished awards such as the West African Research Association, Fulbright-Hays GPA, Mellon Urbanism, and Cornell Provost Diversity fellowships amongst others. Her work has also been published with the following publishers, Routledge Press and ABC-CLIO. Kanyinsola also attended The University of Texas at Austin, where she received a Bachelor of Arts degree in International Relations and Global Studies, as well as in African and African Diaspora Studies. She is also the founder and Executive Director of a 501(c)(3) nonprofit organization, Orisun Collective Inc, which holds summer camps in the creative arts for secondary school students in Lagos, Nigeria. 
