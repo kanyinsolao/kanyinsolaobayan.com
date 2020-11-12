@@ -1,4 +1,5 @@
-![Headshot](headshot.jpg) 
+<img style="float: left; width="50%" src="headshot.jpg">
+                                                       
 Kányinsọ́lá Ọbáyàn has received a Mellon Postdoctoral Fellowship in Digital Humanities. She received her Ph.D. in Africana Studies at Cornell University. Her primary intellectual interests lie at the intersections of Africana Studies, digital humanities, and science and technology studies, where she investigates the sociocultural implications of technology entrepreneurship in contemporary Africa using Lagos, Nigeria as a point of departure. 
 
 As a doctoral candidate, she was a recipient of several distinguished awards such as the West African Research Association, Fulbright-Hays GPA, Mellon Urbanism, and Cornell Provost Diversity fellowships amongst others. Her work has also been published with the following publishers, Routledge Press and ABC-CLIO. Kanyinsola also attended The University of Texas at Austin, where she received a Bachelor of Arts degree in International Relations and Global Studies, as well as in African and African Diaspora Studies. She is also the founder and Executive Director of a 501(c)(3) nonprofit organization, Orisun Collective Inc, which holds summer camps in the creative arts for secondary school students in Lagos, Nigeria. 
